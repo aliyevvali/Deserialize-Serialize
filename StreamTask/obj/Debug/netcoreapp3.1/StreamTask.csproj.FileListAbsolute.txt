@@ -1,0 +1,16 @@
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\bin\Debug\netcoreapp3.1\StreamTask.exe
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\bin\Debug\netcoreapp3.1\StreamTask.deps.json
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\bin\Debug\netcoreapp3.1\StreamTask.runtimeconfig.json
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\bin\Debug\netcoreapp3.1\StreamTask.runtimeconfig.dev.json
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\bin\Debug\netcoreapp3.1\StreamTask.dll
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\bin\Debug\netcoreapp3.1\StreamTask.pdb
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\obj\Debug\netcoreapp3.1\StreamTask.csproj.AssemblyReference.cache
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\obj\Debug\netcoreapp3.1\StreamTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\obj\Debug\netcoreapp3.1\StreamTask.AssemblyInfoInputs.cache
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\obj\Debug\netcoreapp3.1\StreamTask.AssemblyInfo.cs
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\obj\Debug\netcoreapp3.1\StreamTask.csproj.CoreCompileInputs.cache
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\obj\Debug\netcoreapp3.1\StreamTask.csproj.CopyComplete
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\obj\Debug\netcoreapp3.1\StreamTask.dll
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\obj\Debug\netcoreapp3.1\StreamTask.pdb
+C:\Users\tu4pw6wq5\source\repos\StreamTask\StreamTask\obj\Debug\netcoreapp3.1\StreamTask.genruntimeconfig.cache
